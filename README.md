@@ -12,7 +12,7 @@ Matplotlib/Seaborn: Python libraries for creating static, animated, and interact
 
 D3.js: A JavaScript library for producing dynamic, interactive data visualizations in web browsers.
 
-Common Types of Data Visualizations
+Common Types of Data Visualizations:
 
 Bar Charts: Useful for comparing quantities across different categories.
 
